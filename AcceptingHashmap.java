@@ -14,6 +14,7 @@ public class AcceptingHashmap{
         {
             System.out.println(s+":"+a.get(s));
         }
+        System.out.println(a);
     }
 }
             
